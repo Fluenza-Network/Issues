@@ -1,7 +1,7 @@
 Issues
 ======
 
-This repository is designed for players to report server or website bugs for our server. We encourage collaboration in order to determine the cause of an issue. Please follow the guidelines below.
+This repository is designed for players to report server or website bugs. We encourage collaboration in order to determine the cause of an issue. Please follow the guidelines below.
 
 ### Important:
 
